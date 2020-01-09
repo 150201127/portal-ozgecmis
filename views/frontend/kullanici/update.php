@@ -17,7 +17,4 @@ $this->params['breadcrumbs'][] = 'Update';
     <?= $this->render('_form', [
         'model' => $model,
     ]) ?>
-    <p>        
-        <a class="btn btn-lg btn-primary" href="http://portal.kouosl/admin/ozgecmis/kullanici/index">Vazgeç</a></a>        
-    </p>
 </div>
